@@ -1,0 +1,20 @@
+#miFormulario{
+    max-width: 800px;
+    max-height: 900px;
+    margin: 10px auto;
+    padding: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(224, 163, 163, 0.1);
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+body{
+    background-color: rgb(192, 237, 241);
+}
+#for
+{
+   text-align: center;
+}
+#boton
+{
+    align-items: center;
+}
